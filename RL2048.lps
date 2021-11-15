@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="RL2048.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="32"/>
+        <CursorPos X="17" Y="67"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="board.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Board"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="183"/>
+        <CursorPos Y="196"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="gamedriver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GameDriver"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="37"/>
+        <CursorPos X="26" Y="56"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="gameenv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GameEnv"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="27" Y="11"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="agent.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Agent"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="31"/>
+        <CursorPos X="21" Y="52"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="gameplanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GamePlanner"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="33"/>
+        <CursorPos X="10" Y="39"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\Softwares\Lazarus\fpc\3.2.0\source\rtl\win64\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="batch.pas"/>
+        <UnitName Value="Batch"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="14"/>
+        <UsageCount Value="19"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\Softwares\Lazarus\fpc\3.2.0\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="3" Y="51"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\Softwares\Lazarus\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="467"/>
+        <CursorPos X="3" Y="479"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" TopLine="127"/>
+      </Position1>
+      <Position2>
+        <Filename Value="board.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position2>
+      <Position3>
+        <Filename Value="board.pas"/>
+        <Caret Line="196" TopLine="183"/>
+      </Position3>
+      <Position4>
+        <Filename Value="agent.pas"/>
+        <Caret Line="141" TopLine="127"/>
+      </Position4>
+      <Position5>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" TopLine="127"/>
+      </Position5>
+      <Position6>
+        <Filename Value="board.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position6>
+      <Position7>
+        <Filename Value="board.pas"/>
+        <Caret Line="196" TopLine="183"/>
+      </Position7>
+      <Position8>
+        <Filename Value="agent.pas"/>
+        <Caret Line="141" TopLine="127"/>
+      </Position8>
+      <Position9>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" TopLine="127"/>
+      </Position9>
+      <Position10>
+        <Filename Value="board.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position10>
+      <Position11>
+        <Filename Value="board.pas"/>
+        <Caret Line="196" TopLine="183"/>
+      </Position11>
+      <Position12>
+        <Filename Value="agent.pas"/>
+        <Caret Line="141" TopLine="127"/>
+      </Position12>
+      <Position13>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" TopLine="127"/>
+      </Position13>
+      <Position14>
+        <Filename Value="board.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position14>
+      <Position15>
+        <Filename Value="board.pas"/>
+        <Caret Line="196" TopLine="183"/>
+      </Position15>
+      <Position16>
+        <Filename Value="agent.pas"/>
+        <Caret Line="141" TopLine="127"/>
+      </Position16>
+      <Position17>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" TopLine="127"/>
+      </Position17>
+      <Position18>
+        <Filename Value="board.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position18>
+      <Position19>
+        <Filename Value="board.pas"/>
+        <Caret Line="196" TopLine="183"/>
+      </Position19>
+      <Position20>
+        <Filename Value="agent.pas"/>
+        <Caret Line="143" Column="28" TopLine="127"/>
+      </Position20>
+      <Position21>
+        <Filename Value="RL2048.lpr"/>
+        <Caret Line="60" TopLine="25"/>
+      </Position21>
+      <Position22>
+        <Filename Value="RL2048.lpr"/>
+        <Caret Line="51" Column="9" TopLine="34"/>
+      </Position22>
+      <Position23>
+        <Filename Value="RL2048.lpr"/>
+        <Caret Line="75" Column="36" TopLine="68"/>
+      </Position23>
+      <Position24>
+        <Filename Value="RL2048.lpr"/>
+        <Caret Line="52" Column="10" TopLine="43"/>
+      </Position24>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="AState.FRaw"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item1>
+      <Item2>
+        <Expression Value="afterState.AfterBoard.FRaw"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item2>
+      <Item3>
+        <Expression Value="ABoard.FRaw"/>
+        <DisplayStyle Value="wdfHex"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
